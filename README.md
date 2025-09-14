@@ -46,7 +46,6 @@ Después solo te mostrará el menú.
 
 ## Ejemplo de menú
 
-bash vpn.sh
 ===== Menú VPN =====
 1) /home/kali/VPN/nl-free-103.protonvpn.tcp.ovpn  
 2) /home/kali/VPN/nl-free-14.protonvpn.udp.ovpn  
