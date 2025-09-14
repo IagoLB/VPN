@@ -5,7 +5,7 @@ Script en Bash para seleccionar y conectarse fácilmente usando archivos .ovpn d
 
 - Busca automáticamente tus archivos `.ovpn` en un directorio.  
 - La primera vez que lo ejecutas te pregunta dónde están los archivos y recuerda la ruta para la próxima.  
-- Te muestra un menú para elegir qué VPN conectarte.  
+- Te muestra un menú para elegir a qué VPN conectarte.  
 
 ## Requisitos
 
